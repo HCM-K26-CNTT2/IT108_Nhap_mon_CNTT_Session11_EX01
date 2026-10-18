@@ -1,0 +1,11 @@
+﻿Bài 1 : Chuẩn hóa Heading Styles cho tài liệu SRS 
+Phần 1 (Phân tích):
+* Khi định dạng thủ công lại gây ra lỗi mục lục vì nó không đc cấp thẻ heading nên sẽ gây ra lỗi mục lục.
+* Nam đã cho các một đoạn văn bản dài 5 trang dưới nhãn Heading 1 cho nên nó đã hiện lên mục lục thay vì là tiêu đề.
+  
+
+
+
+
+
+Phần 2: Sửa lỗi:
